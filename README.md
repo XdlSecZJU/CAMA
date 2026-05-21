@@ -25,3 +25,16 @@ We construct a benchmark dataset of 118 Android malware samples from 13 families
 ## License
 
 This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
+
+## Citation
+
+If you find this research helpful for your publications, please kindly cite: 
+```
+@inproceedings{he2025benchmarking,
+  title={On benchmarking code llms for android malware analysis},
+  author={He, Yiling and She, Hongyu and Qian, Xingzhi and Zheng, Xinran and Chen, Zhuo and Qin, Zhan and Cavallaro, Lorenzo},
+  booktitle={Proceedings of the 34th ACM SIGSOFT International Symposium on Software Testing and Analysis},
+  pages={153--160},
+  year={2025}
+}
+```
